@@ -4,7 +4,7 @@
 **Almost Ordinary** is a singleplayer 3D Choices-Matter story game currently in development.
 It is a semi open world game with intentional limitations.
 ## Project Status
-**Working on Almost Ordinary is curretly paused, due to missing time and other issues, listed below.**
+Working on **Almost Ordinary** is curretly paused, due to missing time and other issues, listed below.**
 **Almost Ordinary** is still in early development.
 ## Gameplay
 **Almost Ordinary's** gameplay focuses on the players decisions and its impacts.
